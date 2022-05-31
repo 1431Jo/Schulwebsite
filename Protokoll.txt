@@ -1,7 +1,0 @@
-Protokoll von Lennard Müller 
-
-Ich habe mich für das Thema der Fanpage entschieden
-
-31.05.22
-- Grundstruktur in HTML vorbereitet
-- erste Informationen gesammelt
