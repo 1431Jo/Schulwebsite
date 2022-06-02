@@ -5,3 +5,6 @@ Ich habe mich für das Thema der Fanpage entschieden
 31.05.22
 - Grundstruktur in HTML vorbereitet
 - erste Informationen gesammelt
+
+02.06.22
+- angefangen einen header zu programmieren
