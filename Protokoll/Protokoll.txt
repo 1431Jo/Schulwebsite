@@ -2,11 +2,13 @@ Protokoll von Lennard Müller
 
 Ich habe mich für das Thema der Fanpage entschieden
 
-31.05.22
+31.05.22 (1,5 Stunden)
 - Grundstruktur in HTML vorbereitet
 - erste Informationen gesammelt
 
-02.06.22
+02.06.22 (4 Stunden)
 - einen vervollständigten Header programmiert
+    - mit Verlinkungen (rechte Seite)
+    - eigenes Logo eingefügt
 - erste Informationen aufgeschrieben
 - erstes Bild eingefügt
