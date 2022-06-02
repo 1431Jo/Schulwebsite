@@ -7,4 +7,6 @@ Ich habe mich für das Thema der Fanpage entschieden
 - erste Informationen gesammelt
 
 02.06.22
-- angefangen einen header zu programmieren
+- einen vervollständigten Header programmiert
+- erste Informationen aufgeschrieben
+- erstes Bild eingefügt
