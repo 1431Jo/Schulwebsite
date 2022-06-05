@@ -12,3 +12,9 @@ Ich habe mich für das Thema der Fanpage entschieden
     - eigenes Logo eingefügt
 - erste Informationen aufgeschrieben
 - erstes Bild eingefügt
+
+05.06.22 (3 Stunden)
+- Hauptwebsite vervollständigt
+    - restliche Inhalte eingefügt
+    - footer hinzugefügt
+- Unterwebsiten vorbereitet
