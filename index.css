@@ -9,9 +9,24 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+#h1ID {
+    font-size: 45px;
+    text-decoration: underline;
+    color: #d10038;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#TwitchID {
+    color: #bf94ff;
+}
+
+#TwitchID:hover {
+    cursor: pointer;
+    opacity: 50%;
+}
+
 .header {
     background-color: black;
-    /*background-color: #d10038;*/
     width: 100%;
     height: 80px;
     display: block;
@@ -85,20 +100,27 @@ body {
     margin-top: 50px;
 }
 
-#h1ID {
-    font-size: 45px;
-    text-decoration: underline;
-    color: #d10038;
-    font-family: 'Shadows Into Light', cursive;
+.about_zombs h1 {
+    width: 300px;
+}
+
+.about_zombs a:hover {
+    cursor: pointer;
+    opacity: 50%;
 }
 
 .about_zombs a {
     color: #d10038;
 }
 
-.about_zombs img {
+.about_zombs h2 {
+    margin-top: 15px;
+}
+
+.img_container {
     float: right;
-    height: 550px;
+    width: 250px;
+    height: auto;
 }
 
 .his_career {
@@ -108,4 +130,125 @@ body {
     margin-right: auto;
     padding: 80px 120px;
     margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.his_career a:hover {
+    cursor: pointer;
+    opacity: 50%;
+}
+
+.his_career a {
+    color: #d10038;
+}
+
+.his_career h2 {
+    margin-top: 15px;
+}
+
+
+.his_socials {
+    background-color: whitesmoke;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 120px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.navigation_social {
+    height: 100%;
+    float: middle;
+}
+
+.navigation_social a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.navigation_social a li {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.his_socials h1 {
+    margin-bottom: 30px;
+    width: 550px;
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    padding: 70px 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.inner_footer {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 100%;
+    margin-left: 40%;
+}
+.inner_footer .logo_container {
+    width: 20%;
+    float: left;
+    height: 100%;
+    display: block;
+}
+
+.inner_footer .logo_container img {
+    width: 75px;
+    height: auto;
+
+}
+
+.inner_footer .footer_third {
+    width: calc(21.66666666667% - 20px);
+    margin-right: 10px;
+    float: left;
+    height: 100%;
+}
+
+.inner_footer .footer_third:last-child {
+    margin-right: 200px;
+}
+
+.inner_footer .footer_third h1 {
+    font-family: 'Monteserrat', sans-serif;
+    font-size: 22px;
+    color: white;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.inner_footer .footer_third a {
+    font-family: 'Monteserrat', sans-serif;
+    font-size: 18px;
+    color: white;
+    display: block;
+    font-weight: 200;
+    width: 100%;
+    padding-bottom: 2px;
+}
+
+.inner_footer .footer_third h2 {
+    font-family: 'Monteserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+    margin-right: 100px;
 }
