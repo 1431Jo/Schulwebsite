@@ -18,3 +18,14 @@ Ich habe mich für das Thema der Fanpage entschieden
     - restliche Inhalte eingefügt
     - footer hinzugefügt
 - Unterwebsiten vorbereitet
+
+06.06.22 ()
+- erste Unterwebsite (Valorant) angefangen zu bearbeiten
+    - header hinzugefügt
+    - erste Informationen hinzugefügt
+    - footer hinzugefügt
+- eine "Unser Twitter" Website hinzugefügt als kleines extra
+    - header erstellt
+    - footer erstellt
+    - alle Informationen hinzugefügt
+- zweite und dritte Unterwebsite footer und header hinzugefügt
